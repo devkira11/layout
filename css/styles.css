@@ -1,0 +1,21 @@
+.alert-nino{
+	color:white;
+}
+
+.panel{
+	background-color:  white;
+	height: 200px;
+	box-shadow: 0 1px 10px 0 rgba(0,0,0,0.7);
+	padding: 10px;
+	color:black;
+	transition: all 0.8s ease;
+}
+
+.panel:hover{
+	background-color: red;
+	color:white;
+	cursor: grab;
+	border:2px solid black;
+	
+
+}
